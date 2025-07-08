@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Satendra Singh Argal</h1>
 <h3 align="center">Backend Developer with 1.2 years of experience in Python, Django, and FastAPI. Skilled in building APIs, working with databases. Always learning and improving.</h3>
 
-<img align="right" alt="DevOps" width='400' src="https://cdn.faun.dev/prod/media/public/original_images/DevOps-min.gif">
+<img align="right" alt="Python Developer" width='400' src="https://cdn.faun.dev/prod/media/public/original_images/DevOps-min.gif](https://www.galtechlearning.com/wp-content/uploads/2023/01/second.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satendra-argal&label=Profile%20views&color=0e75b6&style=flat" alt="satendra-argal" /> </p>
 
