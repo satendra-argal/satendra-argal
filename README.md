@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satendra-argal&label=Profile%20views&color=0e75b6&style=flat" alt="satendra-argal" /> </p>
 
-- 🌱 I’m currently learning **AWS Cloud Computing**
+- 🌱 1.2+ years of crafting scalable backend systems using Django, FastAPI & PostgreSQL.
 
 - 📫 How to reach me **satendra.argal123@gmail.com**
 
