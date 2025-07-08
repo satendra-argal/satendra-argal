@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Satendra Singh Argal</h1>
-<h3 align="center">Backend Developer with 1.2 years of experience in Python, Django, and FastAPI. Skilled in building APIs, working with databases, and deploying apps on AWS. Always learning and improving.</h3>
+<h3 align="center">Backend Developer with 1.2 years of experience in Python, Django, and FastAPI. Skilled in building APIs, working with databases. Always learning and improving.</h3>
 
 <img align="right" alt="DevOps" width='400' src="https://cdn.faun.dev/prod/media/public/original_images/DevOps-min.gif">
 
